@@ -9,8 +9,6 @@ An algorithm used to clean or crop the background in mammograms
 | :---: | :---: |
 | ![Cleaned](Samples/Cleaned.png) | ![Cropped](Samples/Cropped.png) |
 
-## Getting Started
-
 ## Dependencies
 
 * `pydicom`

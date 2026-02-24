@@ -7,7 +7,8 @@ An algorithm used to clean or crop the background in mammograms
 ### Visual Samples
 | Cleaned Background (-clean_background) | Tight Crop (-crop) |
 | :---: | :---: |
-| ![Cleaned](Samples/Cleaned.png) | ![Cropped](Samples/Cropped.png) |
+| ![Cleaned](Samples/Cleaned_CC.png) | ![Cropped](Samples/Cropped_CC.png) |
+| ![Cleaned](Samples/Cleaned_MLO.png) | ![Cropped](Samples/Cropped_MLO.png) |
 
 ## Dependencies
 
